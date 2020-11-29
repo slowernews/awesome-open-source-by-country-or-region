@@ -47,6 +47,19 @@ Lists of OSS created by developers of a specific country:
 - [Uruguay](https://github.com/IonicaBizau/made-in-uruguay)
 - [Venezuela](https://github.com/IonicaBizau/made-in-venezuela)
 
+## Africa
+
+- [Benim](https://github.com/0l1v3r5/made-in-benin)
+- [Cameroon](https://github.com/roc41d/made-in-cameroon)
+- [Ivory Coast](https://github.com/codedivoire/made-in-ci)
+- [Ghana](https://github.com/devcongress/made-in-ghana)
+- [Kenya](https://github.com/MadeInKenya/madeinkenya.github.io)
+- [Mauritius](https://github.com/Humeira/made-in-Mauritius)
+- [Nigeria](https://github.com/acekyd/made-in-nigeria)
+- [Senegal](https://github.com/JoloffCode/made-in-senegal)
+- [Zambia](https://github.com/ZambianTech/made-in-zambia)
+
+
 ## Asia
 
 - [Bangladesh](https://github.com/made-in-bangladesh/made-in-bangladesh)
@@ -57,14 +70,3 @@ Lists of OSS created by developers of a specific country:
 - [Taywan](https://github.com/hueitan/made-in-taiwan)
 - [Turkey](https://github.com/IonicaBizau/made-in-turkey)
 - [Uzbekistan](https://github.com/webstyle/made-in-uzbekistan)
-
-## Africa
-
-- [Benim](https://github.com/0l1v3r5/made-in-benin)
-- [Ivory Coast](https://github.com/codedivoire/made-in-ci)
-- [Ghana](https://github.com/devcongress/made-in-ghana)
-- [Kenya](https://github.com/MadeInKenya/madeinkenya.github.io)
-- [Mauritius](https://github.com/Humeira/made-in-Mauritius)
-- [Nigeria](https://github.com/acekyd/made-in-nigeria)
-- [Senegal](https://github.com/JoloffCode/made-in-senegal)
-- [Zambia](https://github.com/ZambianTech/made-in-zambia)
