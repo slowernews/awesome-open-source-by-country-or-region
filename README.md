@@ -36,7 +36,8 @@ Lists of OSS created by developers of a specific country:
 
 - [Argentina](https://github.com/IonicaBizau/made-in-argentina)
 - [Bolivia](https://github.com/IonicaBizau/made-in-bolivia)
-- [Brazil](https://github.com/felipefialho/awesome-made-by-brazilians) | [Brazil alt](https://github.com/IonicaBizau/made-in-brazil)  
+- [Brazil](https://github.com/felipefialho/awesome-made-by-brazilians) | [Brazil alt](https://github.com/IonicaBizau/made-in-brazil)
+- [Canada](https://github.com/suguru03/made-in-canada)
 - [Chile](https://github.com/IonicaBizau/made-in-chile)
 - [Colombia](https://github.com/IonicaBizau/made-in-colombia)
 - [Equador](https://github.com/IonicaBizau/made-in-ecuador)
@@ -58,6 +59,7 @@ Lists of OSS created by developers of a specific country:
 
 ## Africa
 
+- [Benim](https://github.com/0l1v3r5/made-in-benin)
 - [Ivory Coast](https://github.com/codedivoire/made-in-ci)
 - [Ghana](https://github.com/devcongress/made-in-ghana)
 - [Kenya](https://github.com/MadeInKenya/madeinkenya.github.io)
