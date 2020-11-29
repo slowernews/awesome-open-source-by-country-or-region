@@ -58,6 +58,10 @@ Lists of OSS created by developers of a specific country:
 
 ## Africa
 
+- [Ivory Coast](https://github.com/codedivoire/made-in-ci)
 - [Ghana](https://github.com/devcongress/made-in-ghana)
-- [Nigeria](https://github.com/acekyd/made-in-nigeria)
 - [Kenya](https://github.com/MadeInKenya/madeinkenya.github.io)
+- [Mauritius](https://github.com/Humeira/made-in-Mauritius)
+- [Nigeria](https://github.com/acekyd/made-in-nigeria)
+
+
