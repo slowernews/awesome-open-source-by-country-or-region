@@ -1,5 +1,5 @@
 # awesome-oss-by-country
-Lists of OSS created by developers of a specific country:  
+Lists of OSS mainly made by developers of a specific country:  
 (This should be seen like a friendly sports competition. Nothing else.)
 
 ## Europe
