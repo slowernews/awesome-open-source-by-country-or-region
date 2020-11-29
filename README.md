@@ -4,7 +4,7 @@ Lists of OSS created by developers of a specific country:
 
 ## Europe
 
-- [Albania](https://github.com/IonicaBizau/made-in-albania)
+- [Albania](https://github.com/redjanym/awesome-made-by-albanians) | [Albania alt](https://github.com/IonicaBizau/made-in-albania)
 - [Austria](https://github.com/IonicaBizau/made-in-austria)
 - [Belarus](https://github.com/IonicaBizau/made-in-belarus)
 - [Belgium](https://github.com/IonicaBizau/made-in-belgium)
@@ -30,7 +30,7 @@ Lists of OSS created by developers of a specific country:
 - [Slovakia](https://github.com/IonicaBizau/made-in-slovakia)
 - [Slovenia](https://github.com/IonicaBizau/made-in-slovenia)
 - [Spain](https://github.com/IonicaBizau/made-in-spain)
-- [Ukraine](https://github.com/IonicaBizau/made-in-ukraine)
+- [Ukraine](https://github.com/chernivtsijs/made-in-ukraine) | [Ukraine alt](https://github.com/IonicaBizau/made-in-ukraine)
 
 ## America
 
@@ -48,10 +48,11 @@ Lists of OSS created by developers of a specific country:
 
 ## Asia
 
-- [India](https://github.com/IonicaBizau/made-in-india)
+- [India](https://github.com/jeswinsimon/awesome-made-by-indians) | [India alt](https://github.com/IonicaBizau/made-in-india)
 - [Iran](https://github.com/mohebifar/made-in-iran)
 - [Turkey](https://github.com/IonicaBizau/made-in-turkey)
 
 ## Africa
 
 - [Nigeria](https://github.com/acekyd/made-in-nigeria)
+- [Kenya](https://github.com/MadeInKenya/madeinkenya.github.io)
