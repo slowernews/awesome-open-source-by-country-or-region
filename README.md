@@ -52,6 +52,7 @@ Lists of OSS created by developers of a specific country:
 - [India](https://github.com/jeswinsimon/awesome-made-by-indians) | [India alt](https://github.com/IonicaBizau/made-in-india)
 - [Iran](https://github.com/mohebifar/made-in-iran)
 - [Japan](https://github.com/suguru03/made-in-japan)
+- [Kazakhstan](https://github.com/nugmanoff/awesome-made-in-kz)
 - [Taywan](https://github.com/hueitan/made-in-taiwan)
 - [Turkey](https://github.com/IonicaBizau/made-in-turkey)
 
