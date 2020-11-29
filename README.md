@@ -63,5 +63,4 @@ Lists of OSS created by developers of a specific country:
 - [Kenya](https://github.com/MadeInKenya/madeinkenya.github.io)
 - [Mauritius](https://github.com/Humeira/made-in-Mauritius)
 - [Nigeria](https://github.com/acekyd/made-in-nigeria)
-
-
+- [Zambia](https://github.com/ZambianTech/made-in-zambia)
