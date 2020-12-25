@@ -67,6 +67,6 @@ Lists of open source projects mainly made by developers of a country:
 - [Iran](https://github.com/mohebifar/made-in-iran)
 - [Japan](https://github.com/suguru03/made-in-japan)
 - [Kazakhstan](https://github.com/nugmanoff/awesome-made-in-kz)
-- [Taywan](https://github.com/hueitan/made-in-taiwan)
+- [Taiwan](https://github.com/hueitan/made-in-taiwan)
 - [Turkey](https://github.com/IonicaBizau/made-in-turkey)
 - [Uzbekistan](https://github.com/webstyle/made-in-uzbekistan)
