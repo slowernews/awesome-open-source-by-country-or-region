@@ -63,6 +63,7 @@ Lists of open source projects mainly made by developers of a country (or autonom
 ## Asia
 
 - [Bangladesh](https://github.com/made-in-bangladesh/made-in-bangladesh)
+- [China](https://github.com/JN-H/awesome-made-by-chinese)
 - [India](https://github.com/jeswinsimon/awesome-made-by-indians) | [India alt](https://github.com/IonicaBizau/made-in-india)
 - [Iran](https://github.com/mohebifar/made-in-iran)
 - [Japan](https://github.com/suguru03/made-in-japan)
