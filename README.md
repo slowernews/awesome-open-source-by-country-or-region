@@ -1,5 +1,5 @@
 # awesome-open-source-by-country-or-region
-Lists of open source projects mainly made by developers of a country (or autonomous region):  
+Lists of open source projects mainly made by developers of a country or region:  
 *This should be seen like a friendly sports competition. Nothing else.*
 
 ## Europe
