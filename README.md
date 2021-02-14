@@ -49,7 +49,7 @@ Lists of open source projects mainly made by developers of a country or region:
 
 ## Africa
 
-- [Benim](https://github.com/0l1v3r5/made-in-benin)
+- [Benin](https://github.com/0l1v3r5/made-in-benin)
 - [Cameroon](https://github.com/roc41d/made-in-cameroon)
 - [Ivory Coast](https://github.com/codedivoire/made-in-ci)
 - [Ghana](https://github.com/devcongress/made-in-ghana)
