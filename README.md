@@ -15,6 +15,7 @@ Lists of open source projects mainly made by developers of a country or region:
 - [Estonia](https://github.com/IonicaBizau/made-in-estonia)
 - [Finland](https://github.com/IonicaBizau/made-in-finland)
 - [France](https://github.com/IonicaBizau/made-in-france)
+- [Germany](https://github.com/b3z/made-in-germany)
 - [Greece](https://github.com/IonicaBizau/made-in-greece)
 - [Italy](https://github.com/IonicaBizau/made-in-italy)
 - [Latvia](https://github.com/IonicaBizau/made-in-latvia)
