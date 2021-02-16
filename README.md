@@ -37,7 +37,7 @@ Lists of open source projects mainly made by developers of a country or region:
 
 - [Argentina](https://github.com/IonicaBizau/made-in-argentina) [ [crystal](https://github.com/crystal-lang/crystal) ]
 - [Bolivia](https://github.com/IonicaBizau/made-in-bolivia)
-- [Brazil](https://github.com/felipefialho/awesome-made-by-brazilians) - [Brazil alt](https://github.com/IonicaBizau/made-in-brazil) [ [elixir](https://github.com/elixir-lang/elixir) - [lua](https://github.com/lua/lua) - [neovim](https://github.com/neovim/neovim) ]
+- [Brazil](https://github.com/felipefialho/awesome-made-by-brazilians) - [Brazil alt](https://github.com/IonicaBizau/made-in-brazil) [ [elixir](https://github.com/elixir-lang/elixir) - [lua](https://github.com/lua/lua) - [neovim](https://github.com/neovim/neovim) - [dracula theme](https://github.com/dracula/dracula-theme)]
 - [Canada](https://github.com/suguru03/made-in-canada) [ [spacemacs](https://github.com/syl20bnr/spacemacs) - [preact](https://github.com/preactjs/preact) - [ublock](https://github.com/gorhill/uBlock) - [learn x in y minutes](https://github.com/adambard/learnxinyminutes-docs) - [devdocs](https://github.com/freeCodeCamp/devdocs) - [koa](https://github.com/koajs/koa) ]
 - [Chile](https://github.com/IonicaBizau/made-in-chile)
 - [Colombia](https://github.com/IonicaBizau/made-in-colombia)
