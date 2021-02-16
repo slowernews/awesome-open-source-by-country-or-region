@@ -25,7 +25,7 @@ Lists of open source projects mainly made by developers of a country or region:
 - [Netherlands](https://github.com/IonicaBizau/made-in-netherlands)
 - [Poland](https://github.com/IonicaBizau/made-in-poland)
 - [Portugal](https://github.com/IonicaBizau/made-in-portugal)
-- [Romania](https://github.com/IonicaBizau/made-in-romania) [ [uglifyJS](https://github.com/mishoo/UglifyJS) ]
+- [Romania](https://github.com/IonicaBizau/made-in-romania) [ [uglify](https://github.com/mishoo/UglifyJS) ]
 - [Russia](https://github.com/igoradamenko/awesome-made-by-russians) - [Russia alt](https://github.com/IonicaBizau/made-in-russia) [ [firacode ](https://github.com/tonsky/FiraCode) - [kotlin](https://github.com/JetBrains/kotlin) - [opencv](https://github.com/opencv/opencv) - [redux](https://github.com/reduxjs/redux) - [nginx](https://github.com/nginx/nginx) - [emmet](https://github.com/emmetio/emmet) ]
 - [Serbia](https://github.com/IonicaBizau/made-in-serbia)
 - [Slovakia](https://github.com/IonicaBizau/made-in-slovakia)
@@ -37,7 +37,7 @@ Lists of open source projects mainly made by developers of a country or region:
 
 - [Argentina](https://github.com/IonicaBizau/made-in-argentina) [ [crystal](https://github.com/crystal-lang/crystal) ]
 - [Bolivia](https://github.com/IonicaBizau/made-in-bolivia)
-- [Brazil](https://github.com/felipefialho/awesome-made-by-brazilians) - [Brazil alt](https://github.com/IonicaBizau/made-in-brazil) [ [elixir](https://github.com/elixir-lang/elixir) - [lua](https://github.com/lua/lua) ]
+- [Brazil](https://github.com/felipefialho/awesome-made-by-brazilians) - [Brazil alt](https://github.com/IonicaBizau/made-in-brazil) [ [elixir](https://github.com/elixir-lang/elixir) - [lua](https://github.com/lua/lua) ] - [neovim](https://github.com/neovim/neovim)
 - [Canada](https://github.com/suguru03/made-in-canada) [ [spacemacs](https://github.com/syl20bnr/spacemacs) - [preact](https://github.com/preactjs/preact) - [ublock](https://github.com/gorhill/uBlock) - [learn x in y minutes](https://github.com/adambard/learnxinyminutes-docs) - [devdocs](https://github.com/freeCodeCamp/devdocs) - [koa](https://github.com/koajs/koa) ]
 - [Chile](https://github.com/IonicaBizau/made-in-chile)
 - [Colombia](https://github.com/IonicaBizau/made-in-colombia)
