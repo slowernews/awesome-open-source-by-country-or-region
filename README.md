@@ -26,7 +26,7 @@ Lists of open source projects mainly made by developers of a country or region:
 - [Netherlands](https://github.com/IonicaBizau/made-in-netherlands)
 - [Poland](https://github.com/IonicaBizau/made-in-poland)
 - [Portugal](https://github.com/IonicaBizau/made-in-portugal)
-- [Romania](https://github.com/IonicaBizau/made-in-romania) [ [uglify](https://github.com/mishoo/UglifyJS) ]
+- [Romania](https://github.com/IonicaBizau/made-in-romania) [ [uglify](https://github.com/mishoo/UglifyJS) ] [gadgetisimo/ro-open-source](https://github.com/gadgetisimo/ro-open-source)
 - [Russia](https://github.com/igoradamenko/awesome-made-by-russians) [ [firacode ](https://github.com/tonsky/FiraCode) - [kotlin](https://github.com/JetBrains/kotlin) - [opencv](https://github.com/opencv/opencv) - [redux](https://github.com/reduxjs/redux) - [nginx](https://github.com/nginx/nginx) - [emmet](https://github.com/emmetio/emmet) ]
 - [Serbia](https://github.com/IonicaBizau/made-in-serbia)
 - [Slovakia](https://github.com/IonicaBizau/made-in-slovakia)
