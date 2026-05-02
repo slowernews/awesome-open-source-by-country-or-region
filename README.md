@@ -51,7 +51,7 @@ Lists of open source projects mainly made by developers of a country or region:
 
 ## Asia
 
-- [Bangladesh](https://github.com/made-in-bangladesh/made-in-bangladesh)
+- [Bangladesh](https://github.com/sharf-shawon/Awesome-Bangladeshi-Devs)
 - [China](https://github.com/JN-H/awesome-made-by-chinese) [ [vue](https://github.com/vuejs/vue) - [nw.js](https://github.com/nwjs/nw.js) ]
 - [India](https://github.com/jeswinsimon/awesome-made-by-indians) [ [pytorch](https://github.com/pytorch/pytorch) ]
 - [Iran](https://github.com/mohebifar/made-in-iran) [ [nuxt](https://github.com/nuxt/nuxt.js) ]
